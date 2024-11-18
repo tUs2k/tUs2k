@@ -26,8 +26,8 @@
 
 <div>
    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/aftereffects/aftereffects-original.svg" Width="40" height="40"/>
-   <img scr="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/aarch64/aarch64-line.svg" width="40" height="40"/>
-   <img scr="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/anaconda/anaconda-original.svg" width="40" height="40"/>
-   <img scr="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bamboo/bamboo-original-wordmark.svg" width="40" height="40"/>
-   <img scr="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/ballerina/ballerina-original-wordmark.svg" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/aarch64/aarch64-line.svg" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/anaconda/anaconda-original.svg" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bamboo/bamboo-original-wordmark.svg" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/ballerina/ballerina-original-wordmark.svg" width="40" height="40"/>
 </div>
